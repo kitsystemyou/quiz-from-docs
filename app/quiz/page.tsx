@@ -56,7 +56,7 @@ export default function QuizPage() {
     <main className="p-6 md:p-10">
       <div className="mx-auto max-w-3xl space-y-6">
         <header>
-          <h1 className="text-2xl font-semibold">クイズ生成 (/quiz)</h1>
+          <h1 className="text-2xl font-semibold">クイズ生成ツール(β)</h1>
           <p className="mt-2 text-sm text-gray-600">
             テキストファイルをアップロードするか、下の入力欄に最大{MAX_LEN}文字まで入力してください。ボタンを押すと本文から5問のクイズを生成します。
           </p>
